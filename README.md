@@ -2,7 +2,7 @@
 
 ![image1](./image/Screenshot_20200712_165328.png)
 
-[Download theme by ](https://store.kde.org/p/1373828/)
+[Download theme](https://store.kde.org/p/1373828/)
 
 [Download KDE](https://kde.org/download/)
 
